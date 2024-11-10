@@ -32,7 +32,23 @@ export default function History() {
     );
 }
 
-function Card({title, info, img, url, app, year, download}: {title: string; info: string; img: string; url: string; app: string; year: string; download: any}) {
+function Card({
+    title,
+    info,
+    img,
+    url,
+    app,
+    year,
+    download,
+}: {
+    title: string;
+    info: string;
+    img: string;
+    url: string;
+    app: string;
+    year: string;
+    download?: string;
+}) {
     return (
         <div className="h-[300px] w-[300px] p-2 rounded-md" style={{backgroundColor: Colors.green}}>
             <div>

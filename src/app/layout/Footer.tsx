@@ -21,7 +21,7 @@ export default function Footer() {
                         <a>Chandra Wijaya Yeo</a>
                     </li>
                     <li className="text-sm" style={{color: Colors.cream}}>
-                        <a>D'Natale Cordiaz Domenica Panjaitan</a>
+                        <a>D&#39;Natale Cordiaz Domenica Panjaitan</a>
                     </li>
                 </ul>
             </div>

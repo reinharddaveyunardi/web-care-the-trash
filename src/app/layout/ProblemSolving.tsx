@@ -19,9 +19,9 @@ export default function ProblemSolving() {
                                 their waste.
                             </small>
                             <small style={{color: Colors.cream}}>
-                                Sometimes people still don't do the recycling, even though I already make the Care The Trash app, so I add a "Point System." The
-                                point can be obtained by recycling their waste to us. Also, the point can be redeemed for a fruit, vegetable, or food. So it can
-                                motivate people to recycle their waste.
+                                Sometimes people still don&#39; t do the recycling, even though I already make the Care The Trash app, so I add a &#34;Point
+                                System.&#34; The point can be obtained by recycling their waste to us. Also, the point can be redeemed for a fruit, vegetable,
+                                or food. So it can motivate people to recycle their waste.
                             </small>
                         </div>
                     </div>
