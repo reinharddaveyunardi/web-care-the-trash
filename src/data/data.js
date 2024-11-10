@@ -48,6 +48,6 @@ export const HistoryData = [
         app: "Github",
         download: "/carethetrash-alpha_test.apk",
         year: "2024",
-        url: "https://github.com/reinharddaveyunardi/care-the-trash",
+        url: "https://reactnative.dev/",
     },
 ];
